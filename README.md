@@ -6,7 +6,7 @@
 ### <div align="center">Ben Muzaffer, 2020'den beri tam zamanlı, full-stack 👨‍💻 kod yazmayı öğrenen bir geliştiriciyim  🚀</div>  
   
 
-- 🔭 Şu anda [android]([[https://github.com/MuzafferKaya/adidas-template](https://github.com/MuzafferKaya/android-hesap-makinesi)]()) üzerinde çalışıyorum.  
+- 🔭 Şu anda [android]([https://github.com/MuzafferKaya/android-hesap-makinesi]) üzerinde çalışıyorum.  
   
 
 - 🌱 Şu anda .NET Framework öğreniyorum  
