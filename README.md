@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzafferkaya&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferkaya" /> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET and React**
 
 - 📝 I regularly write articles on [https://medium.com/@kmuzaffer](https://medium.com/@kmuzaffer)
 
