@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzafferkaya" alt="muzafferkaya" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@kmuzaffer](https://medium.com/@kmuzaffer)
+- 📝 I regularly write articles on [https://medium.com/@kmuzaffer](https://medium.com/@muzaffer-kaya)
 
 - 📫 How to reach me **kmuzaffer718@gmail.com**
 
